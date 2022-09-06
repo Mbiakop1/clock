@@ -1,4 +1,4 @@
-# tutorial
+# Tutorial
 Build a clock with JavaScript.
 ## Tools used
 ### JavaScript
